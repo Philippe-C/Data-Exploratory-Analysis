@@ -16,7 +16,7 @@ if (!"sccData" %in% ls()) {
 # STEP 2: 
 # Using the base plotting system, make a plot showing the total PM2.5 emission from all sources 
 # for each of the years 1999, 2002, 2005, and 2008.
-# The graph is saved in the working directory
+# The graph is saved in the working directory.
 
 aggregatedTotalByYear <- aggregate(Emissions ~ year, neiData, sum)
 png('plot1.png')
