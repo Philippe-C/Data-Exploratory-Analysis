@@ -12,7 +12,7 @@ In order to use a slightly different method to access the data, "Plot4.R" presen
 Here are the final results and you can compare easily:
 
 ### Plot 1
-![plot1](https://github.com/Philippe-C/ExData_Plotting1/blob/master/plot1.png?raw=true)
+![plot1](https://cloud.githubusercontent.com/assets/10817013/6765700/b4d775de-cfeb-11e4-9645-5fa610940b3a.png)
 ### Plot 2
 ![plot2](https://github.com/Philippe-C/ExData_Plotting1/blob/master/plot2.png?raw=true)
 ### Plot 3
