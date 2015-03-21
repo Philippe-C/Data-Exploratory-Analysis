@@ -48,16 +48,12 @@ A2. Yes, The data indicate a decline between 1999 and 2008 but it was not linear
 ### Plot 3
 ![plot3] (https://cloud.githubusercontent.com/assets/10817013/6765733/d206f71e-cfec-11e4-979c-c53fe58250d3.png)
 
-A3. We observe a decrease for type= NON-ROAD, NONPOINT, ON-ROAD from 1999 to 2008 !
-
-    We observe an increase for type= POINT but only from 1999 to 2005 !
+A3. We observe a decrease for type= NON-ROAD, NONPOINT, ON-ROAD from 1999 to 2008 ! and We observe an increase for type= POINT but only from 1999 to 2005 !
 
 ### Plot 4
 ![plot4] (https://cloud.githubusercontent.com/assets/10817013/6765929/b8b8b99e-cff3-11e4-88ce-6d2d41fd9cfa.png)
 
-A4. Total (Purple Line): From the plot, we see that the purple line for total slightly declines from 1999 to 2002. From 2002 to 2005 the line has a marginal increase. Finally, from 2005 to 2008, the overall trend has a sharp decrease.
-Point (Blue Line): From the plot, we see that the blue line for point is slightly similar in shape to the total purple line. From 1999 to 2002 the point blue line has a steeper decrease. From 2002 to 2005, the point blue line increases only slightly. Finally, from 2005 to 2008, the overall trend has a sharp decrease.
-Nonpoint (Red Line): This line is remarkably different from the other two lines. From 1999 to 2002 it has an increase (although it starts from a much lower level than the other two lines at just above zero). From 2002 to 2005 it remains nearly level and does not appear to increase or decrease much. Finally, from 2005 to 2008, another symmetrical decrease occurs to end just below the initial levels for the 1999 values.
+A4. Emissions from coal combustion-related sources have decreased sharply from 1999 to 2008.
 
 ### Plot 5
 ![plot5] (https://cloud.githubusercontent.com/assets/10817013/6766178/eb678f7a-cffb-11e4-862a-43641268756e.png)
