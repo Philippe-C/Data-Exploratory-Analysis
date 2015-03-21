@@ -48,7 +48,7 @@ A2. Yes, The data indicate a decline between 1999 and 2008 but it was not linear
 ### Plot 3
 ![plot3] (https://cloud.githubusercontent.com/assets/10817013/6765733/d206f71e-cfec-11e4-979c-c53fe58250d3.png)
 
-A3. We observe a decrease for type= NON-ROAD, NONPOINT, ON-ROAD from 1999 to 2008 ! and We observe an increase for type= POINT but only from 1999 to 2005 !
+A3. We observe a decrease for type= NON-ROAD, NONPOINT, ON-ROAD from 1999 to 2008 ! and we observe an increase for type= POINT but only from 1999 to 2005 !
 
 ### Plot 4
 ![plot4] (https://cloud.githubusercontent.com/assets/10817013/6765929/b8b8b99e-cff3-11e4-88ce-6d2d41fd9cfa.png)
@@ -58,7 +58,7 @@ A4. Emissions from coal combustion-related sources have decreased sharply from 1
 ### Plot 5
 ![plot5] (https://cloud.githubusercontent.com/assets/10817013/6766178/eb678f7a-cffb-11e4-862a-43641268756e.png)
 
-A5. The  emissions levels fell sharply until 2002 then From 2002 to 2005 the levels plateaued. Finally from 2005 to 2008, the  emissions continued to decrease.
+A5. The  emissions levels have fell sharply until 2002, then From 2002 to 2005 the levels have plateaued. Finally from 2005 to 2008, the emissions have continued to decrease.
 
 ### Plot 6
 ![plot6] (https://cloud.githubusercontent.com/assets/10817013/6766272/fc4b2802-cfff-11e4-8f4c-f0227d0f6b4a.png)
