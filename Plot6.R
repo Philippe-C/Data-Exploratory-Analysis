@@ -30,7 +30,7 @@ aggregatedTotalByYearAndFips$fips[aggregatedTotalByYearAndFips$fips=="06037"] <-
 
 ## STEP 3:
 # Plotting to png
-png("plot6.png", width=1040, height=600)
+png("Plot6.png", width=1040, height=600)
 g <- ggplot(aggregatedTotalByYearAndFips, aes(factor(year), Emissions))
 g <- g + facet_grid(. ~ fips)
 g <- g + geom_bar(stat="identity")  +
@@ -43,3 +43,4 @@ print(g)
 
 # We do not forget to close the graphic device.
 dev.off()
+
