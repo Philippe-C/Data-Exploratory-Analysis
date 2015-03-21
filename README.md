@@ -16,7 +16,7 @@ Here are the final results and you can compare easily:
 ### Plot 2
 ![plot2](https://github.com/Philippe-C/ExData_Plotting1/blob/master/plot2.png?raw=true)
 ### Plot 3
-![plot3](https://github.com/Philippe-C/ExData_Plotting1/blob/master/plot3.png?raw=true)
+![plot3] (https://cloud.githubusercontent.com/assets/10817013/6765733/d206f71e-cfec-11e4-979c-c53fe58250d3.png)
 ### Plot 4
 ![plot4](https://github.com/Philippe-C/ExData_Plotting1/blob/master/plot4.png?raw=true)
 
