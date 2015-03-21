@@ -35,38 +35,37 @@ Q6. Compare emissions from motor vehicle sources in Baltimore City with emission
 
 ## Answers:
 
-A1. Yes,  sharp declined from 1999 to 2002. Then a slower decline between 2002 and 2005. Finally, another sharp declined from 2005 to 2008.
 ### Plot 1
 ![plot1](https://cloud.githubusercontent.com/assets/10817013/6765700/b4d775de-cfeb-11e4-9645-5fa610940b3a.png)
+A1. Yes,  sharp declined from 1999 to 2002. Then a slower decline between 2002 and 2005. Finally, another sharp declined from 2005 to 2008.
 
-A2. Yes, The data indicate a decline between 1999 and 2008 but it was not linear !!. 
 ### Plot 2
 ![plot2](https://cloud.githubusercontent.com/assets/10817013/6765905/c2ebfaf8-cff2-11e4-8f47-7ef0ce2c3b1c.png)
+A2. Yes, The data indicate a decline between 1999 and 2008 but it was not linear !! 
 
-A3. We observe a decrease for type= NON-ROAD, NONPOINT, ON-ROAD ! from 1999 to 2008
-    We observe an increase for type= POINT ! from 1999 to 2005
 ### Plot 3
 ![plot3] (https://cloud.githubusercontent.com/assets/10817013/6765733/d206f71e-cfec-11e4-979c-c53fe58250d3.png)
+A3. We observe a decrease for type= NON-ROAD, NONPOINT, ON-ROAD ! from 1999 to 2008
+    We observe an increase for type= POINT ! from 1999 to 2005
 
-A4. Total (Purple Line): From the plot, we see that the purple line for total slightly declines from 1999 to 2002. From 2002 to 2005 the line has a marginal increase. Finally, from 2005 to 2008, the overall trend has a sharp decrease.
-
-Point (Blue Line): From the plot, we see that the blue line for point is slightly similar in shape to the total purple line. From 1999 to 2002 the point blue line has a steeper decrease. From 2002 to 2005, the point blue line increases only slightly. Finally, from 2005 to 2008, the overall trend has a sharp decrease.
-
-Nonpoint (Red Line): This line is remarkably different from the other two lines. From 1999 to 2002 it has an increase (although it starts from a much lower level than the other two lines at just above zero). From 2002 to 2005 it remains nearly level and does not appear to increase or decrease much. Finally, from 2005 to 2008, another symmetrical decrease occurs to end just below the initial levels for the 1999 values.
 ### Plot 4
 ![plot4] (https://cloud.githubusercontent.com/assets/10817013/6765929/b8b8b99e-cff3-11e4-88ce-6d2d41fd9cfa.png)
+A4. Total (Purple Line): From the plot, we see that the purple line for total slightly declines from 1999 to 2002. From 2002 to 2005 the line has a marginal increase. Finally, from 2005 to 2008, the overall trend has a sharp decrease.
+Point (Blue Line): From the plot, we see that the blue line for point is slightly similar in shape to the total purple line. From 1999 to 2002 the point blue line has a steeper decrease. From 2002 to 2005, the point blue line increases only slightly. Finally, from 2005 to 2008, the overall trend has a sharp decrease.
+Nonpoint (Red Line): This line is remarkably different from the other two lines. From 1999 to 2002 it has an increase (although it starts from a much lower level than the other two lines at just above zero). From 2002 to 2005 it remains nearly level and does not appear to increase or decrease much. Finally, from 2005 to 2008, another symmetrical decrease occurs to end just below the initial levels for the 1999 values.
 
-A5. Starting with 1999, the \(PM_{2.5}\) emissions was just below 350, the levels fell sharply until 2002. From 2002 to 2005 the levels plateaued. Finally from 2005 to 2008, the \(PM_{2.5}\) emissions drop to below 100 \(PM_{2.5}\) emissions.
 ### Plot 5
 ![plot5] (https://cloud.githubusercontent.com/assets/10817013/6766178/eb678f7a-cffb-11e4-862a-43641268756e.png)
+A5. Starting with 1999, the \(PM_{2.5}\) emissions was just below 350, the levels fell sharply until 2002. From 2002 to 2005 the levels plateaued. Finally from 2005 to 2008, the \(PM_{2.5}\) emissions drop to below 100 \(PM_{2.5}\) emissions.
 
+### Plot 6
+![plot6] (https://cloud.githubusercontent.com/assets/10817013/6766272/fc4b2802-cfff-11e4-8f4c-f0227d0f6b4a.png)
 A6. Comparisons of \(PM_{2.5}\) emissions between Baltimore, MD (a city in MD) and Los Angeles, CA (county). In this case, we are asked to compare a city to a county. In plot 6, we notice that Baltimore, MD starts considerably lower in terms of \(PM_{2.5}\) emissions.
 
 Baltimore, MD [city] (Red Line): The red line starts marginally above zero and below 1,000 \(PM_{2.5}\) emission values. Between 1999 and 2002, it slowly declines and remains nearly static between 2002 and 2008.
 
 Los Angeles, CA [county] (Blue Line): The blue line starts significantly higher than the Baltimore, MD line. Starting with 1999, slightly below 4,000 \(PM_{2.5}\) emisions and steadily increases to 2005. The value of \(PM_{2.5}\) emissions for 2005 hits a peak at approximately 4,500 \(PM_{2.5}\) emision levels and then decreases between 2005 and 2008 with an ending value point of slightly above 4,000 \(PM_{2.5}\) emissions.
-### Plot 6
-![plot6] (https://cloud.githubusercontent.com/assets/10817013/6766272/fc4b2802-cfff-11e4-8f4c-f0227d0f6b4a.png)
+
 
 Have fun!
 
