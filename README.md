@@ -63,7 +63,7 @@ A5. The  emissions levels fell sharply until 2002 then From 2002 to 2005 the lev
 ### Plot 6
 ![plot6] (https://cloud.githubusercontent.com/assets/10817013/6766272/fc4b2802-cfff-11e4-8f4c-f0227d0f6b4a.png)
 
-A6. If we compare the two cities, it is obvious than the level of pollution in Los Angeles is much greater. The levels of air pollutant have decreased in Baltimore from 1999 to 2008 whereas in Los Angles the levels of air pollutant have globally increased (even if the data shows a recent decreasing trend).
+A6. If we compare the two cities, it is obvious than the level of pollution in Los Angeles is much greater. The levels of air pollutant have sharply decreased (by 74.55 %) in Baltimore from 1999 to 2008 whereas in Los Angeles the levels of air pollutant have globally increased by +4.33 % (even if the data shows a recent decreasing trend).
 
 
 Have fun!
