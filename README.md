@@ -15,7 +15,7 @@ summarySCC_PM25.rds
 
 Source_Classification_Code.rds
 
-## R code:
+## R code & questions:
 
 The "Plot1.R", "Plot2.R",... and "Plot6.R"  files (after downloading and unzipping) use these data to build the 6 requested plots ("Plot1.png", "Plot2.png",... and "Plot6.png"). The necessary packages are included in the respective codes.
 
@@ -48,8 +48,9 @@ A2. Yes, The data indicate a decline between 1999 and 2008 but it was not linear
 ### Plot 3
 ![plot3] (https://cloud.githubusercontent.com/assets/10817013/6765733/d206f71e-cfec-11e4-979c-c53fe58250d3.png)
 
-A3. We observe a decrease for type= NON-ROAD, NONPOINT, ON-ROAD ! from 1999 to 2008
-    We observe an increase for type= POINT ! from 1999 to 2005
+A3. We observe a decrease for type= NON-ROAD, NONPOINT, ON-ROAD from 1999 to 2008 !
+
+    We observe an increase for type= POINT but only from 1999 to 2005 !
 
 ### Plot 4
 ![plot4] (https://cloud.githubusercontent.com/assets/10817013/6765929/b8b8b99e-cff3-11e4-88ce-6d2d41fd9cfa.png)
