@@ -21,6 +21,8 @@ Here are the final results and you can compare easily:
 ![plot4] (https://cloud.githubusercontent.com/assets/10817013/6765929/b8b8b99e-cff3-11e4-88ce-6d2d41fd9cfa.png)
 ### Plot 5
 ![plot5] (https://cloud.githubusercontent.com/assets/10817013/6766178/eb678f7a-cffb-11e4-862a-43641268756e.png)
+### Plot 6
+![plot6] (https://cloud.githubusercontent.com/assets/10817013/6766272/fc4b2802-cfff-11e4-8f4c-f0227d0f6b4a.png)
 
 Have fun!
 
